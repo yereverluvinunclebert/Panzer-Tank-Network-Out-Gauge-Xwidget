@@ -2,25 +2,26 @@
  
 Dieselpunk Desktop Network OUT widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
 
-![panzer-cpu-1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/7e13b346-e87a-42b9-86b3-c9629484bbd3)
-
+![panzer-network-photo-1000](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/d8c7a31a-8c23-456b-a982-720c3e4021b4)
 
 This Panzer OUT widget is an attractive dieselpunk Yahoo widget for your desktop. It is a simple Network  usage gauge. The Network OUT gauge displays Network usage going out of your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
-![panzer-cpugauge-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/ed717858-f013-4a4e-9b31-c411246852e0)
+![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/e7106a55-1a75-4b40-89b7-16e77ea6944f)
 
 To find out how the widget operates, simply right click and select Help and a full explanation of all the buttons, windows is shown. The top left window is the current power in digital form. Hovering over any control should supply a pop-up explaining each function.
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
+
+![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/fea0d99d-1b57-49c5-9ccb-e8586d331d8e)
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
 This widget is a virtual duplicate of the Yahoo widget CPU battery widget that 
 you can find here: 
 
-![panzer-cpu-256](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/33b0308e-7e80-4fea-8b69-fa87b395e4c2)
+![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/aa4b868e-3dac-4d12-a502-883af9f1a6bc)
 
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
