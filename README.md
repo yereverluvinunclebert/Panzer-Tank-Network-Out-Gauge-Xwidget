@@ -4,7 +4,7 @@ Dieselpunk Desktop Network OUT widget, written in Jscript for the XWidget Engine
 
 ![panzer-network-photo-1000](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/d8c7a31a-8c23-456b-a982-720c3e4021b4)
 
-This Panzer OUT widget is an attractive dieselpunk Yahoo widget for your desktop. It is a simple Network  usage gauge. The Network OUT gauge displays Network usage going out of your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
+This Panzer OUT widget is an attractive dieselpunk Xwidget for your desktop. It is a simple Network  usage gauge. The Network OUT gauge displays Network usage going out of your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
@@ -18,7 +18,7 @@ Right clicking will bring up a menu of options. Double-clicking on the widget wi
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
-This widget is a virtual duplicate of the Yahoo widget CPU battery widget that 
+This widget is a virtual duplicate of the Xwidget CPU battery widget that 
 you can find here: 
 
 ![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/aa4b868e-3dac-4d12-a502-883af9f1a6bc)
@@ -30,8 +30,8 @@ version), the language is Micrososoft's JScript (rather than javascript) and it 
 ![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/a9d58973-347f-4f93-ba1f-4b538f743515)
 
 This widget is uploaded here for historical archival reasons. I suggest that you 
-use the Yahoo widget version as it is a superior engine for developing widgets. 
-I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
+use the Xwidget version as it is a superior engine for developing widgets. 
+I will provide bugfixes for the Xwidget version but NOT for Xwidgets.
 
 All Jscript widgets need an engine to function, in this case the widget uses 
 the XWidget engine. The engine interprets the Jscript and creates the widget 
