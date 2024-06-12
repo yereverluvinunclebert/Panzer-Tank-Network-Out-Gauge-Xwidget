@@ -1,5 +1,7 @@
 # Panzer Tank-Network-Out-Gauge Xwidget
  
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-Network-Gauge-VB6
+
 Dieselpunk Desktop Network OUT widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
 
 ![panzer-network-photo-1000](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/d8c7a31a-8c23-456b-a982-720c3e4021b4)
